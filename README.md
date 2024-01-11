@@ -37,14 +37,6 @@ To run the application locally, follow these steps:
 2. Open the `index.html` file in a web browser.
 3. Fill out the meal form and click the "Generate Meal Plan" button.
 
-## API Key
-
-To use the Edamam API, you need to obtain an API key. Replace the placeholder values for `APP_ID` and `APP_KEY` in the JavaScript code with your actual API credentials.
-
-```javascript
-const APP_ID = "your_app_id";
-const APP_KEY = "your_app_key";
-```
 
 ## Notes
 
